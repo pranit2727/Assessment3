@@ -1,0 +1,9 @@
+E:\trainingByNizam\ManageCustomers\DAL\bin\Debug\DAL.dll
+E:\trainingByNizam\ManageCustomers\DAL\bin\Debug\DAL.pdb
+E:\trainingByNizam\ManageCustomers\DAL\bin\Debug\BOL.dll
+E:\trainingByNizam\ManageCustomers\DAL\bin\Debug\BOL.pdb
+E:\trainingByNizam\ManageCustomers\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\trainingByNizam\ManageCustomers\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\trainingByNizam\ManageCustomers\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\trainingByNizam\ManageCustomers\DAL\obj\Debug\DAL.dll
+E:\trainingByNizam\ManageCustomers\DAL\obj\Debug\DAL.pdb

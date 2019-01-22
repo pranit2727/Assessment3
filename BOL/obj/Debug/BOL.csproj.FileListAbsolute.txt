@@ -1,0 +1,6 @@
+E:\trainingByNizam\ManageCustomers\BOL\bin\Debug\BOL.dll
+E:\trainingByNizam\ManageCustomers\BOL\bin\Debug\BOL.pdb
+E:\trainingByNizam\ManageCustomers\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+E:\trainingByNizam\ManageCustomers\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+E:\trainingByNizam\ManageCustomers\BOL\obj\Debug\BOL.dll
+E:\trainingByNizam\ManageCustomers\BOL\obj\Debug\BOL.pdb

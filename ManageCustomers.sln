@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageCustomers", "ManageCustomers\ManageCustomers.csproj", "{0C995C10-7C46-4D11-8368-346A5E381973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOL", "BOL\BOL.csproj", "{B7C8195A-A4AD-4F8C-B3D4-9DCF6028BF88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{4476E591-9A76-4096-9755-B68193B148BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C995C10-7C46-4D11-8368-346A5E381973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C995C10-7C46-4D11-8368-346A5E381973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C995C10-7C46-4D11-8368-346A5E381973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C995C10-7C46-4D11-8368-346A5E381973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C8195A-A4AD-4F8C-B3D4-9DCF6028BF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C8195A-A4AD-4F8C-B3D4-9DCF6028BF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C8195A-A4AD-4F8C-B3D4-9DCF6028BF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C8195A-A4AD-4F8C-B3D4-9DCF6028BF88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4476E591-9A76-4096-9755-B68193B148BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4476E591-9A76-4096-9755-B68193B148BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4476E591-9A76-4096-9755-B68193B148BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4476E591-9A76-4096-9755-B68193B148BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {940A23FE-4769-4CDD-AE1E-381B8C6941B1}
+	EndGlobalSection
+EndGlobal
